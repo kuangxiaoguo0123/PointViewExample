@@ -88,7 +88,7 @@ public class PointView extends View {
             widthSize = (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, DEFAULT_WIDTH, getResources().getDisplayMetrics()) + getPaddingLeft() + getPaddingRight();
         }
         if (heightMode == MeasureSpec.AT_MOST) {
-            heightSize = (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, DEFAULT_HEIGHT, getResources().getDisplayMetrics());
+            heightSize = (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP, DEFAULT_HEIGHT, getResources().getDisplayMetrics()) + getPaddingTop() + getPaddingBottom();
         }
         /**
          * 使用setMeasureDimension方法确定view的最终宽和高
