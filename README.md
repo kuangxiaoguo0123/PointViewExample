@@ -2,7 +2,7 @@
 Android动画之自定义Evaluator实现弹球效果
 
 ## Screenshots
-![image](https://github.com/kuangxiaoguo0123/ATPointView/tree/master/gifFile/pointView.gif)
+![](https://github.com/kuangxiaoguo0123/ATPointView/raw/master/gifFile/pointView.gif)
 
 ## attrs定义
 ````
