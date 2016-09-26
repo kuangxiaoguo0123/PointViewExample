@@ -52,7 +52,8 @@ public void startAnimation() {
 ## 实现弹球动画
 **获取PointView的实例，然后直接调用上面的startAnimation()方法**
 
-**MainActivity.java**
+> **MainActivity.java**
+
 ````
     private PointView pointView;
     private PointView secondPointView;
