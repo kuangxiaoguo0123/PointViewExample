@@ -1,4 +1,4 @@
-# ATPointView
+# PointViewExample
 Android动画之自定义Evaluator实现弹球效果
 
 ## Screenshots
